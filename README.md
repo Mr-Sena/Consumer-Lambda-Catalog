@@ -8,5 +8,5 @@
 This is a node.js module repository  to programme a AWS Lambda Consumer from Api data.
 
  - Producer Api: [catalog-product repository](catalog-product)
- - AWS Datacenter: [Terraform infra as code](https://github.com/Mr-Sena/catalog-product-infra-terraform)
+ - AWS Datacenter Config: [Terraform infra as code](https://github.com/Mr-Sena/catalog-product-infra-terraform)
 
